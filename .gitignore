@@ -4,7 +4,7 @@
 *.cpuprofile
 *.local
 *.log
-/.vscode/
+# /.vscode/
 /packages/vite/LICENSE
 dist
 dist-ssr
